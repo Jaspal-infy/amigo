@@ -1,0 +1,11 @@
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.json
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\Jaspal\source\repos\amigo\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
